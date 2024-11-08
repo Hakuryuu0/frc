@@ -1,0 +1,1 @@
+query_id=AAEODkZfAgAAAA4ORl_3GHs0&user=%7B%22id%22%3A5893393934%2C%22first_name%22%3A%22%E3%85%A4%F0%9F%8D%85%E7%9A%BF%20Deeplchain%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22Izkaizz%22%2C%22language_code%22%3A%22id%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1730770008&hash=b5d1b4d962be73f652230613b3d1b9d6b0b2d73f20a046a53fd014238518703e
